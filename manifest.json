@@ -1,5 +1,5 @@
 {
-  "name": "Onmaibana",
+  "name": "Onmaibana.com",
   "short_name": "ONMAIBANA",
   "start_url": "https://www.onmaibana.com/",
   "display": "standalone",
@@ -7,25 +7,18 @@
   "theme_color": "#2B0C93",
   "description": "",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s48/android-icon-192x192.png",
-    "type": "image/png"
+    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s48/android-icon-192x192.png"
   }, {
-    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s72/android-icon-192x192.png",
-    "type": "image/png"
+    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s72/android-icon-192x192.png"
   }, {
-    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s96/android-icon-192x192.png",
-    "type": "image/png"
+    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s96/android-icon-192x192.png"
   }, {
-    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s144/android-icon-192x192.png",
-    "type": "image/png"
+    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s144/android-icon-192x192.png"
   }, {
-    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s168/android-icon-192x192.png",
-    "type": "image/png"
+    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s168/android-icon-192x192.png"
   }, {
-    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s192/android-icon-192x192.png",
-    "type": "image/png"
+    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s192/android-icon-192x192.png"
   }, {
-    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s512/android-icon-192x192.png",
-    "type": "image/png"
+    "src": "https://1.bp.blogspot.com/-lXq0EqZ7KpQ/XZnSBjwwpuI/AAAAAAAABXw/2a2XS_ZARroUsdaMzE7fMkEQSD3BpWGbACLcBGAsYHQ/s512/android-icon-192x192.png"
   }]
 }
